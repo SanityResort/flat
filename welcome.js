@@ -1,3 +1,5 @@
+console.log('Starting');
+
 let popup;
 
 popup = WA.onEnterZone('start', () => {
@@ -5,6 +7,7 @@ popup = WA.onEnterZone('start', () => {
         label: 'Weiter',
         className: 'primary',
         callback: (localPopup) => {
+            console.log('Button');
             localPopup.close();
             popup = WA.openPopup('popup', 'Zweites Popup', {
                 label: 'Zu',
@@ -25,6 +28,8 @@ popup = WA.onEnterZone('start', () => {
     ])
 
 });
+
+console.log('Popup created');
 
 function start() {
 
