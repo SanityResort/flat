@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"wohnzimmer"
+                 "value":"virgil9_t666xDUCPqKTzzqiLTLo"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"schlafzimmer"
+                 "value":"virgil9_EmoVvGUZIq45WVqm3wmv"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -111,7 +111,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"arbeitszimmer"
+                 "value":"virgil9_GNyczKOAH1Tmig1V6mIv"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -239,12 +239,6 @@
  "nextlayerid":25,
  "nextobjectid":4,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
